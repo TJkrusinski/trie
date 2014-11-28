@@ -1,0 +1,23 @@
+{
+  "name": "trie",
+  "version": "1.0.0",
+  "description": "My implementation of a Trie, just cause",
+  "main": "trie.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TJkrusinski/trie.git"
+  },
+  "keywords": [
+    "trie",
+    "tree"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/trie/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/trie"
+}
