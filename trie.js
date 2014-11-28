@@ -44,8 +44,7 @@ Trie.prototype.get = function(val) {
     var n = node[v[i]];
 
     if (!n) return '';
-    if (i+1 == v.length && !n) return '';
-    if (i+1 == v.length && n) return v;
+    if (i+1 == v.length) return v;
 
     return _get(v, ++i, n);
   };
