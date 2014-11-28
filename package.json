@@ -1,5 +1,5 @@
 {
-  "name": "trie",
+  "name": "tj-trie",
   "version": "1.0.0",
   "description": "My implementation of a Trie, just cause",
   "main": "trie.js",
